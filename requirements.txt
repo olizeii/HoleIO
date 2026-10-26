@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+torch
+opencv-python
+numpy
+mss
+pyautogui
